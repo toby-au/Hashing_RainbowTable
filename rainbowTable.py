@@ -1,6 +1,6 @@
 """
 Toby Au
-Hw 9: Hashing and Rainbow Tables
+Hashing and Rainbow Tables
 CSC1 141
 """
 
