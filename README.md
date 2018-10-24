@@ -14,6 +14,6 @@ There is a class object that stores: <br>
     - the number of similar passwords found <br>
     - the number of similar hash values found <br>
     
-Using these objects, it goes through a series of 12 tests comparing the two hash tables to see if the generated hash values reveal similar passwords. <br>
+Using these objects, it goes through a series of 12 test cases comparing the two hash tables to see if the generated hash values reveal similar passwords. <br>
 
 This assignment should reveal that each test returns True. 
