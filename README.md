@@ -8,7 +8,7 @@ The program then creates two hash tables or "rainbow" tables consisting of:
 Key: generated hash values using the python hash function.
 Values: a dictionary (hold passwords and be indexed by hashes)
 
-There is a class object that stores: 
+There is a class object that stores: <br>
     - a filename 
     - a hash table
     - the number of similar passwords found
