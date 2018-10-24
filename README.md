@@ -4,7 +4,7 @@ The file rainbowTable consists of a class and a variety of functions that create
 
 The file "cracker" has default passwords and result's lists. <br>
 
-The program then creates two hash tables or "rainbow" tables consisting of: 
+The program then creates two hash tables or "rainbow" tables consisting of: <br>
 Key: generated hash values using the python hash function. <br>
 Values: a dictionary (hold passwords and be indexed by hashes)<br>
 
